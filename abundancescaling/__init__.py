@@ -1,1 +1,1 @@
-from .abundancescaling import scale_asplund2009_abundance
+from .abundancescaling import scale_asplund2009_abundance, scale_NuGrid_abundance, scale_LimongiChieffi_abundance, mass_fraction_to_logAB, mass_fraction_to_AX

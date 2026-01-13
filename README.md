@@ -11,3 +11,5 @@ The latter reference includes a plot showing primordial helium abundance between
 
 ## Currently implemented
 * Asplund et al 2009 Photospheric abundances
+* NuGrid abundances, taken from their data directly (https://download1.nugridstars.org/set1ext/Yield_tables/, but see Ritter C., et al. (2018) MNRAS, 480, 538.)
+* Limongi & Chieffi (2018) abundances, taken from their data directly (http://orfeo.iaps.inaf.it/index.html, see Limongi M., et al. (2018) ApJS, 237, 13; Roberti L., et al. (2024) ApJS, 272, 15)
